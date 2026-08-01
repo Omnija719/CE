@@ -1,0 +1,16 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Large source graphics (optimized copies live in assets/)
+CE Graphix/CE Shirt Front EP.png
+CE Graphix/CE Shirt Front EWS.png
+CE Graphix/CE Shirt Smaller.png
+CE Graphix/CE Website Logo Orange.png
+CE Graphix/NAME CE Orange Sm.png
+
+# Local tooling
+.grok/
